@@ -1,4 +1,7 @@
-# Products — Source Code for Sale 🔒
+# 🛠️ 源码出售 · Source Code for Sale
+
+> **你离被动收入，只差一次部署。**
+> **One deploy away from passive income.**
 
 **Private repositories | 88 USDT / 8888 USDT**
 
@@ -6,7 +9,10 @@
 
 ## 📈 Product 1: Polymarket Crypto Arbitrage Bot
 
-Fully automated arbitrage bot for Polymarket BTC up/down prediction markets.
+> **BTC 每 15 分钟波动一次，机器替你赚钱。你睡觉，它交易。**
+> **BTC oscillates every 15 minutes. Your bot trades while you sleep.**
+
+Fully automated arbitrage bot for Polymarket BTC up/down prediction markets. No charts to watch, no emotions to manage — just config and run.
 
 ### Strategies Included
 
@@ -43,6 +49,9 @@ Best run: +$72.52 over 37 trades
 ---
 
 ## 🔮 Product 2: Divination Website Platform
+
+> **5000 年东方秘术，一套源码交付。算命这门生意，该搬到网上了。**
+> **5,000 years of Eastern mysticism, delivered in one codebase. Take divination online.**
 
 Professional divination service platform built with Next.js 16.
 
