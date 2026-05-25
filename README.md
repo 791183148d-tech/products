@@ -101,6 +101,30 @@ Professional divination platform built with Next.js 16. Ready to deploy, ready t
 - 订单跟踪系统 Order tracking system
 - 评价系统 Review system
 
+### 👑 Premium Service · 尊享服务
+
+**8888 USDT 不只是源码，是全程交付：**
+
+| 服务 Service | 说明 Details |
+|-------------|-------------|
+| 🚀 一对一部署 | 远程协助部署上线，直到你能正常收单 |
+| 📖 运营指导 | 教你如何推广、定价、接单，快速回本 |
+| 🔄 终身更新 | 源码永久更新，新功能免费迭代 |
+| 🎓 13 部秘典 | 完整玄学学习资料，从零学到精通 |
+| 💬 永久咨询 | 任何问题直接联系，不限次数 |
+| 🤝 商业授权 | 你可以商用，接多少单都是你的 |
+
+### 📊 收益测算 · ROI
+
+| 客单价 | 日接单 | 月流水 | 回本周期 |
+|:------:|:------:|:------:|:--------:|
+| ¥100 | 3 单 | ¥9,000 | ~30 天 |
+| ¥200 | 3 单 | ¥18,000 | ~15 天 |
+| ¥500 | 2 单 | ¥30,000 | ~9 天 |
+
+> **你买的不是一个网站，是一个能马上赚钱的生意。**
+> **You're not buying a website — you're buying a business that's ready to make money.**
+
 ### 🎓 附赠：13 部东方玄学秘典 · Bonus Manuscripts
 
 购买即赠完整学习资料，从入门到精通：
