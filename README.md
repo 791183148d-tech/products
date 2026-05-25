@@ -119,38 +119,9 @@ Professional divination platform built with Next.js 16. Complete engine + step-b
 
 ### 🎓 附赠：13 部东方玄学秘典 · Bonus Manuscripts
 
-购买即赠完整学习资料，从入门到精通：
+购买即赠 13 部完整玄学秘典（易经、八字、紫微斗数、奇门遁甲、风水等），从入门到精通的体系化资料。
 
-Included with purchase — comprehensive study guides from foundations to mastery:
-
-#### 根基 Foundations
-| 典籍 Manuscript | 内容 Content |
-|----------------|-------------|
-| 易经 I Ching | 群经之首，大道之源。八卦六十四爻，天地万物变化的终极密码 |
-| 阴阳五行 Yin-Yang & Five Elements | 生克制化的底层逻辑，一切术数的理论根基 |
-| 天干地支 Stems & Branches | 六十甲子、时辰历法，八字排盘的基础 |
-
-#### 命理 Destiny Reading
-| 典籍 Manuscript | 内容 Content |
-|----------------|-------------|
-| 八字命理 Bazi | 四柱推命，断人一生富贵贫贱 Four Pillars of Destiny |
-| 紫微斗数 Purple Star | 帝王级命理学，108 星曜排盘，12 宫断命 |
-| 相学 Face & Palm | 面相、手相、骨相 — 观人识人 |
-
-#### 占卜 Divination
-| 典籍 Manuscript | 内容 Content |
-|----------------|-------------|
-| 六爻 Six Coins | 三枚铜钱六次落，万事皆可问 |
-| 梅花易数 Plum Blossom | 邵雍所创，万物皆可起卦 |
-| 小六壬 Minor Six Ren | 掐指一算，三秒断吉凶 |
-
-#### 绝学 Supreme Arts
-| 典籍 Manuscript | 内容 Content |
-|----------------|-------------|
-| 奇门遁甲 Qi Men | 古代帝王术，排兵布阵、择时择方 |
-| 大六壬 Major Six Ren | 古传三式之一，占卜人事之王 |
-| 太乙神数 Tai Yi | 三式之首，推演国运天时 |
-| 风水堪舆 Feng Shui | 藏风聚气，阴阳宅布局 |
+Included: 13 complete arcane study manuscripts (I Ching, Bazi, Purple Star, Qi Men, Feng Shui, and more).
 
 ---
 
