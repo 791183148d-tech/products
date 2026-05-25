@@ -1,9 +1,12 @@
 # 🛠️ 源码出售 · Source Code for Sale
 
-> **你离被动收入，只差一次部署。**
-> **One deploy away from passive income.**
+> **你每天盯盘 12 小时，这套代码每 15 分钟帮你赚一笔。**
+> **34 胜 3 负，胜率 91.9%。88U = 一个赚钱机器。**
+>
+> **You stare at charts. This bot trades. 34W/3L — 91.9% win rate.**
+> **88U. One time. The code is yours.**
 
-**Private repositories | 18 / 88 / 8888 USDT**
+**Private repositories | 8.8 / 18 / 88 / 8888 USDT**
 
 ---
 
