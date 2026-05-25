@@ -66,12 +66,12 @@ Fully automated arbitrage bot for Polymarket BTC up/down prediction markets. No 
 
 ## 🔮 Product 2: Divination Website Platform · 算命网站源码
 
-> **中国算命市场超千亿，你见过几个算命网站？现在你有源码了。**
-> **China's divination market: ¥100B+. How many online platforms have you seen? Now you own the code.**
+> **八字、六爻、紫微斗数 — 三大术数，一套源码。算得准，才是硬道理。**
+> **Bazi, Liuyao, Zwei Shu — three ancient arts, one complete system. Accurate readings speak for themselves.**
 
-Professional divination platform built with Next.js 16. Ready to deploy, ready to charge.
+Professional divination platform built with Next.js 16. Complete engine + step-by-step guidance.
 
-基于 Next.js 16 的专业算命服务平台。部署即上线，上线即收费。
+基于 Next.js 16 的专业排盘平台。源码 + 教学 + 实战指导，一套全包。
 
 ### Services · 服务
 
@@ -101,29 +101,21 @@ Professional divination platform built with Next.js 16. Ready to deploy, ready t
 - 订单跟踪系统 Order tracking system
 - 评价系统 Review system
 
-### 👑 Premium Service · 尊享服务
+### 👑 尊享服务 · Premium Service
 
-**8888 USDT 不只是源码，是全程交付：**
+**8888 USDT — 不只是源码，是玄学传承：**
 
-| 服务 Service | 说明 Details |
-|-------------|-------------|
-| 🚀 一对一部署 | 远程协助部署上线，直到你能正常收单 |
-| 📖 运营指导 | 教你如何推广、定价、接单，快速回本 |
-| 🔄 终身更新 | 源码永久更新，新功能免费迭代 |
-| 🎓 13 部秘典 | 完整玄学学习资料，从零学到精通 |
-| 💬 永久咨询 | 任何问题直接联系，不限次数 |
-| 🤝 商业授权 | 你可以商用，接多少单都是你的 |
+| 服务 | 说明 |
+|------|------|
+| 🎓 一对一教学 | 八字排盘、六爻起卦、紫微斗数排盘，每一步手把手教会 |
+| 📖 解盘指导 | 教你如何解读命盘，断吉凶，给建议 |
+| 🔮 实战案例 | 提供真实命例练习，练到能独立接单 |
+| 🏛 13 部秘典 | 从易经到风水，完整玄学体系 |
+| 💬 终身答疑 | 遇到疑难杂症随时问 |
+| ✅ 源码交付 | 完整算命网站 + 排盘引擎，无需从零开发 |
 
-### 📊 收益测算 · ROI
-
-| 客单价 | 日接单 | 月流水 | 回本周期 |
-|:------:|:------:|:------:|:--------:|
-| ¥100 | 3 单 | ¥9,000 | ~30 天 |
-| ¥200 | 3 单 | ¥18,000 | ~15 天 |
-| ¥500 | 2 单 | ¥30,000 | ~9 天 |
-
-> **你买的不是一个网站，是一个能马上赚钱的生意。**
-> **You're not buying a website — you're buying a business that's ready to make money.**
+> **我们不教你赚钱，只教你算得准。结果准了，钱自然会来。**
+> **We don't teach you how to make money. We teach you how to read destiny. Get the readings right, the rest follows.**
 
 ### 🎓 附赠：13 部东方玄学秘典 · Bonus Manuscripts
 
