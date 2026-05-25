@@ -1,6 +1,6 @@
 # Products — Source Code for Sale 🔒
 
-**Private repositories | 8888 USDT each**
+**Private repositories | 88 USDT / 8888 USDT**
 
 ---
 
@@ -91,9 +91,8 @@ Included with the purchase — comprehensive Chinese divination study guides:
 
 | Product | Price |
 |---------|:-----:|
-| Arbitrage Bot | **8888 USDT** |
+| Arbitrage Bot | **88 USDT** |
 | Divination Platform | **8888 USDT** |
-| Both Bundle | **15000 USDT** |
 
 ### Payment
 
